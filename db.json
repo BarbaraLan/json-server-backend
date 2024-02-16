@@ -1,292 +1,291 @@
-[
-  {
-      "id": 1,
-      "name": "Apple",
-      "calories": 52,
-      "description": "Apples are a popular fruit known for their crisp texture and sweet taste. They are high in fiber and vitamin C.",
-      "img": "https://as1.ftcdn.net/v2/jpg/01/76/97/96/1000_F_176979696_hqfioFYq7pX13dmiu9ENrpsHZy1yM3Dt.jpg"
-  },
-  {
-      "id": 2,
-      "name": "Banana",
-      "calories": 105,
-      "description": "Bananas are a tropical fruit with a creamy texture and a sweet flavor. They are a good source of potassium and vitamin B6.",
-      "img": "https://5.imimg.com/data5/SELLER/Default/2022/12/EK/NP/CN/49293026/fresh-banana-fruit-500x500.webp"
-  },
-  {
-      "id": 3,
-      "name": "Orange",
-      "calories": 62,
-      "description": "Oranges are citrus fruits known for their tangy flavor and high vitamin C content. They are often eaten fresh or juiced.",
-      "img": "https://as1.ftcdn.net/v2/jpg/02/58/86/90/1000_F_258869082_TOHkGzpAyBS0b9nxkZZ5fhtEVaUzO8ch.jpg"
-  },
-  {
-      "id": 4,
-      "name": "Grapes",
-      "calories": 69,
-      "description": "Grapes are small, juicy fruits that come in various colors, including green, red, and purple. They are rich in antioxidants.",
-      "img": "https://static.libertyprim.com/files/familles/raisin-large.jpg?1569271841"
-  },
-  {
-      "id": 5,
-      "name": "Strawberry",
-      "calories": 33,
-      "description": "Strawberries are sweet, red berries known for their distinctive flavor. They are high in vitamin C and antioxidants.",
-      "img": "https://www.thermofisher.com/blog/food/wp-content/uploads/sites/5/2015/08/single_strawberry__isolated_on_a_white_background.jpg"
-  },
-  {
-      "id": 6,
-      "name": "Pineapple",
-      "calories": 50,
-      "description": "Pineapples are tropical fruits with a sweet and tangy flavor. They are a good source of vitamin C and manganese.",
-      "img": "https://www.kandyfreshfruits.com/wp-content/uploads/2013/06/pineapple1.jpg"
-  },
-  {
-      "id": 7,
-      "name": "Watermelon",
-      "calories": 30,
-      "description": "Watermelons are large, juicy fruits with a sweet taste and high water content. They are a good source of hydration.",
-      "img": "https://weresmartworld.com/sites/default/files/styles/full_screen/public/2021-04/watermeloen_2.jpg?itok=hsBPt3DQ"
-  },
-  {
-      "id": 8,
-      "name": "Kiwi",
-      "calories": 61,
-      "description": "Kiwi fruits are small, green fruits with a tangy flavor and edible black seeds. They are high in vitamin C and fiber.",
-      "img": "https://www.theproducemoms.com/wp-content/uploads/2022/01/kiwi.png"
-  },
-  {
-      "id": 9,
-      "name": "Mango",
-      "calories": 60,
-      "description": "Mangoes are tropical fruits with a sweet and creamy texture. They are rich in vitamins A and C.",
-      "img": "https://st2.depositphotos.com/1020804/11570/i/950/depositphotos_115707106-stock-photo-mango-cubes-and-mango-fruit.jpg"
-  },
-  {
-      "id": 10,
-      "name": "Peach",
-      "calories": 39,
-      "description": "Peaches are soft, fuzzy fruits with a sweet flavor. They are a good source of vitamins A and C.",
-      "img": "https://static.libertyprim.com/files/familles/peche-large.jpg?1574630286"
-  }
-]
-
-[
-  {
-      "id": 11,
-      "name": "Carrot",
-      "calories": 41,
-      "description": "Carrots are root vegetables known for their bright orange color and sweet, crunchy taste. They are rich in beta-carotene and vitamin A.",
-      "img": "https://greengarden.ph/cdn/shop/products/LINE_ALBUM_PICTURE_230412_81.jpg?v=1681545916&width=600"
-  },
-  {
-      "id": 12,
-      "name": "Broccoli",
-      "calories": 55,
-      "description": "Broccoli is a green vegetable with a dense, crunchy texture and a slightly bitter taste. It is high in fiber, vitamins C and K, and antioxidants.",
-      "img": "https://static.libertyprim.com/files/familles/brocoli-large.jpg?1569282241"
-  },
-  {
-      "id": 13,
-      "name": "Spinach",
-      "calories": 23,
-      "description": "Spinach is a leafy green vegetable with a mild flavor and a soft texture. It is rich in iron, vitamins A and C, and antioxidants.",
-      "img": "https://freshji.in/wp-content/uploads/2020/09/Spinach-1.jpg"
-  },
-  {
-      "id": 14,
-      "name": "Tomato",
-      "calories": 18,
-      "description": "Tomatoes are red fruits that are commonly used as vegetables in cooking. They have a sweet, tangy flavor and are rich in vitamins C and K.",
-      "img": "https://nearlynakedveg.co.uk/cdn/shop/files/Depositphotos_3201839_S.jpg?v=1682500334"
-  },
-  {
-      "id": 15,
-      "name": "Bell Pepper",
-      "calories": 31,
-      "description": "Bell peppers come in various colors, including red, yellow, and green. They have a crunchy texture and a sweet, slightly bitter taste. Bell peppers are high in vitamin C and antioxidants.",
-      "img": "https://wvegpro.com/wp-content/uploads/2019/01/bells.png"
-  },
-  {
-      "id": 16,
-      "name": "Cucumber",
-      "calories": 16,
-      "description": "Cucumbers are cylindrical green vegetables with a crisp texture and a mild, refreshing taste. They are low in calories and a good source of hydration.",
-      "img": "https://static.libertyprim.com/files/familles/concombre-large.jpg?1569271746"
-  },
-  {
-      "id": 17,
-      "name": "Zucchini",
-      "calories": 17,
-      "description": "Zucchini, also known as courgette, is a green summer squash with a mild flavor and a tender texture. It is low in calories and a good source of vitamins A and C.",
-      "img": "https://www.gannett-cdn.com/presto/2021/08/15/NDRP/3acc8255-c8d9-46d2-a230-5390e0613622-pngaaa.com-1668290_copy.jpg?crop=1463,823,x0,y73&width=960"
-  },
-  {
-      "id": 18,
-      "name": "Green Bean",
-      "calories": 31,
-      "description": "Green beans, also known as string beans, are long, slender pods with a crisp texture and a slightly sweet flavor. They are rich in fiber and vitamins A, C, and K.",
-      "img": "https://asian-veggies.com/cdn/shop/products/stringbeans.jpg?v=1601766750"
-  },
-  {
-      "id": 19,
-      "name": "Cabbage",
-      "calories": 25,
-      "description": "Cabbage is a leafy green or purple vegetable with a dense, crunchy texture and a slightly bitter taste. It is high in fiber, vitamins C and K, and antioxidants.",
-      "img": "https://d3awvtnmmsvyot.cloudfront.net/api/file/GGosbWO9SYyGxvDaciZf/convert?fit=max&w=570&cache=true"
-  },
-  {
-      "id": 20,
-      "name": "Sweet Potato",
-      "calories": 86,
-      "description": "Sweet potatoes are root vegetables with a sweet flavor and a starchy texture. They are high in fiber, vitamins A and C, and antioxidants.",
-      "img": "https://c.ndtvimg.com/2018-10/rn4qsd9_sweet-potatoes-_625x300_10_October_18.jpg"
-  }
-  {
-    "id": 21,
-    "name": "Lettuce",
-    "calories": 15,
-    "description": "Lettuce is a leafy green vegetable commonly used in salads and sandwiches. It has a mild flavor and is low in calories.",
-    "img": "https://cdn.britannica.com/77/170677-050-F7333D51/lettuce.jpg"
-},
 {
-    "id": 22,
-    "name": "Onion",
-    "calories": 40,
-    "description": "Onions are root vegetables with a pungent flavor and a layered structure. They are commonly used in cooking to add flavor to dishes.",
-    "img": "https://www.veggycation.com.au/siteassets/veggycationvegetable/onion.jpg"
-},
-{
-    "id": 23,
-    "name": "Garlic",
-    "calories": 149,
-    "description": "Garlic is a bulbous vegetable with a strong, pungent flavor. It is used in cooking and has various health benefits, including boosting the immune system.",
-    "img": "https://www.halfyourplate.ca/wp-content/uploads/2022/09/garlic-png.png"
-},
-{
-    "id": 24,
-    "name": "Potato",
-    "calories": 77,
-    "description": "Potatoes are starchy tubers with a versatile flavor and texture. They are commonly boiled, baked, or fried and are rich in potassium and vitamin C.",
-    "img": "https://newsthump.com/wp-content/uploads/2021/11/potatoes.jpg"
-},
-{
-    "id": 25,
-    "name": "Cauliflower",
-    "calories": 25,
-    "description": "Cauliflower is a cruciferous vegetable with a mild, slightly sweet flavor. It can be eaten raw or cooked and is a good source of vitamins C and K.",
-    "img": "https://m.media-amazon.com/images/I/61teCu1uDmL._SX679_.jpg"
-},
-{
-    "id": 26,
-    "name": "Asparagus",
-    "calories": 20,
-    "description": "Asparagus is a green vegetable with a tender texture and a slightly bitter flavor. It is rich in vitamins A, C, and K, as well as folate and fiber.",
-    "img": "https://cdn.mos.cms.futurecdn.net/xt4UGjZmzih2tt6NS3Awmd-1200-80.jpg.webp"
-},
-{
-    "id": 27,
-    "name": "Brussels Sprouts",
-    "calories": 38,
-    "description": "Brussels sprouts are small, green cruciferous vegetables with a mild, slightly bitter flavor. They are high in fiber, vitamins C and K, and antioxidants.",
-    "img": "https://bcfresh.ca/wp-content/uploads/2021/11/Brussels-sprouts.jpg"
-},
-{
-    "id": 28,
-    "name": "Artichoke",
-    "calories": 60,
-    "description": "Artichokes are thistle-like vegetables with a tender heart and edible leaves. They have a nutty flavor and are rich in fiber, vitamins C and K, and antioxidants.",
-    "img": "https://static.libertyprim.com/files/familles/artichaut-large.jpg?1576834575"
-},
-{
-    "id": 29,
-    "name": "Beetroot",
-    "calories": 43,
-    "description": "Beetroot, also known as beets, are root vegetables with a sweet, earthy flavor. They are rich in antioxidants, vitamins, and minerals.",
-    "img": "https://lyofood.com/cdn/shop/articles/LYOFOOD-freeze-dried-organic-beetroot-powders-EU-01.jpg?v=1490710701"
-},
-{
-    "id": 30,
-    "name": "Radish",
-    "calories": 16,
-    "description": "Radishes are root vegetables with a crisp texture and a spicy flavor. They come in various colors, including red, white, and purple, and are low in calories.",
-    "img": "https://extension.umn.edu/sites/extension.umn.edu/files/radish_GyJvfNq_.jpg"
-},
-{
-    "id": 31,
-    "name": "Eggplant",
-    "calories": 25,
-    "description": "Eggplant, also known as aubergine, is a purple vegetable with a meaty texture and a mild, slightly bitter flavor. It is low in calories and a good source of fiber.",
-    "img": "https://www.vitamedica.com/wellness-blog/wp-content/uploads/2010/09/Eggplant.jpg"
-},
-{
-    "id": 32,
-    "name": "Celery",
-    "calories": 16,
-    "description": "Celery is a crunchy green vegetable with a mild, slightly salty flavor. It is low in calories and a good source of fiber, vitamins, and minerals.",
-    "img": "https://cdn.britannica.com/68/143768-050-108B71EC/Celery.jpg"
-},
-{
-    "id": 33,
-    "name": "Kale",
-    "calories": 49,
-    "description": "Kale is a leafy green vegetable with a slightly bitter flavor and a chewy texture. It is high in vitamins A and C.",
-    "img": "https://m.media-amazon.com/images/I/711CCK2JRmL._SX679_.jpg"
+    "meals": [
+        {
+            "id": 1,
+            "name": "Apple",
+            "calories": 52,
+            "description": "Apples are a popular fruit known for their crisp texture and sweet taste. They are high in fiber and vitamin C.",
+            "img": "https://as1.ftcdn.net/v2/jpg/01/76/97/96/1000_F_176979696_hqfioFYq7pX13dmiu9ENrpsHZy1yM3Dt.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Banana",
+            "calories": 105,
+            "description": "Bananas are a tropical fruit with a creamy texture and a sweet flavor. They are a good source of potassium and vitamin B6.",
+            "img": "https://5.imimg.com/data5/SELLER/Default/2022/12/EK/NP/CN/49293026/fresh-banana-fruit-500x500.webp"
+        },
+        {
+            "id": 3,
+            "name": "Orange",
+            "calories": 62,
+            "description": "Oranges are citrus fruits known for their tangy flavor and high vitamin C content. They are often eaten fresh or juiced.",
+            "img": "https://as1.ftcdn.net/v2/jpg/02/58/86/90/1000_F_258869082_TOHkGzpAyBS0b9nxkZZ5fhtEVaUzO8ch.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Grapes",
+            "calories": 69,
+            "description": "Grapes are small, juicy fruits that come in various colors, including green, red, and purple. They are rich in antioxidants.",
+            "img": "https://static.libertyprim.com/files/familles/raisin-large.jpg?1569271841"
+        },
+        {
+            "id": 5,
+            "name": "Strawberry",
+            "calories": 33,
+            "description": "Strawberries are sweet, red berries known for their distinctive flavor. They are high in vitamin C and antioxidants.",
+            "img": "https://www.thermofisher.com/blog/food/wp-content/uploads/sites/5/2015/08/single_strawberry__isolated_on_a_white_background.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Pineapple",
+            "calories": 50,
+            "description": "Pineapples are tropical fruits with a sweet and tangy flavor. They are a good source of vitamin C and manganese.",
+            "img": "https://www.kandyfreshfruits.com/wp-content/uploads/2013/06/pineapple1.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Watermelon",
+            "calories": 30,
+            "description": "Watermelons are large, juicy fruits with a sweet taste and high water content. They are a good source of hydration.",
+            "img": "https://weresmartworld.com/sites/default/files/styles/full_screen/public/2021-04/watermeloen_2.jpg?itok=hsBPt3DQ"
+        },
+        {
+            "id": 8,
+            "name": "Kiwi",
+            "calories": 61,
+            "description": "Kiwi fruits are small, green fruits with a tangy flavor and edible black seeds. They are high in vitamin C and fiber.",
+            "img": "https://www.theproducemoms.com/wp-content/uploads/2022/01/kiwi.png"
+        },
+        {
+            "id": 9,
+            "name": "Mango",
+            "calories": 60,
+            "description": "Mangoes are tropical fruits with a sweet and creamy texture. They are rich in vitamins A and C.",
+            "img": "https://st2.depositphotos.com/1020804/11570/i/950/depositphotos_115707106-stock-photo-mango-cubes-and-mango-fruit.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Peach",
+            "calories": 39,
+            "description": "Peaches are soft, fuzzy fruits with a sweet flavor. They are a good source of vitamins A and C.",
+            "img": "https://static.libertyprim.com/files/familles/peche-large.jpg?1574630286"
+        },
+        {
+            "id": 11,
+            "name": "Carrot",
+            "calories": 41,
+            "description": "Carrots are root vegetables known for their bright orange color and sweet, crunchy taste. They are rich in beta-carotene and vitamin A.",
+            "img": "https://greengarden.ph/cdn/shop/products/LINE_ALBUM_PICTURE_230412_81.jpg?v=1681545916&width=600"
+        },
+        {
+            "id": 12,
+            "name": "Broccoli",
+            "calories": 55,
+            "description": "Broccoli is a green vegetable with a dense, crunchy texture and a slightly bitter taste. It is high in fiber, vitamins C and K, and antioxidants.",
+            "img": "https://static.libertyprim.com/files/familles/brocoli-large.jpg?1569282241"
+        },
+        {
+            "id": 13,
+            "name": "Spinach",
+            "calories": 23,
+            "description": "Spinach is a leafy green vegetable with a mild flavor and a soft texture. It is rich in iron, vitamins A and C, and antioxidants.",
+            "img": "https://freshji.in/wp-content/uploads/2020/09/Spinach-1.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Tomato",
+            "calories": 18,
+            "description": "Tomatoes are red fruits that are commonly used as vegetables in cooking. They have a sweet, tangy flavor and are rich in vitamins C and K.",
+            "img": "https://nearlynakedveg.co.uk/cdn/shop/files/Depositphotos_3201839_S.jpg?v=1682500334"
+        },
+        {
+            "id": 15,
+            "name": "Bell Pepper",
+            "calories": 31,
+            "description": "Bell peppers come in various colors, including red, yellow, and green. They have a crunchy texture and a sweet, slightly bitter taste. Bell peppers are high in vitamin C and antioxidants.",
+            "img": "https://wvegpro.com/wp-content/uploads/2019/01/bells.png"
+        },
+        {
+            "id": 16,
+            "name": "Cucumber",
+            "calories": 16,
+            "description": "Cucumbers are cylindrical green vegetables with a crisp texture and a mild, refreshing taste. They are low in calories and a good source of hydration.",
+            "img": "https://static.libertyprim.com/files/familles/concombre-large.jpg?1569271746"
+        },
+        {
+            "id": 17,
+            "name": "Zucchini",
+            "calories": 17,
+            "description": "Zucchini, also known as courgette, is a green summer squash with a mild flavor and a tender texture. It is low in calories and a good source of vitamins A and C.",
+            "img": "https://www.gannett-cdn.com/presto/2021/08/15/NDRP/3acc8255-c8d9-46d2-a230-5390e0613622-pngaaa.com-1668290_copy.jpg?crop=1463,823,x0,y73&width=960"
+        },
+        {
+            "id": 18,
+            "name": "Green Bean",
+            "calories": 31,
+            "description": "Green beans, also known as string beans, are long, slender pods with a crisp texture and a slightly sweet flavor. They are rich in fiber and vitamins A, C, and K.",
+            "img": "https://asian-veggies.com/cdn/shop/products/stringbeans.jpg?v=1601766750"
+        },
+        {
+            "id": 19,
+            "name": "Cabbage",
+            "calories": 25,
+            "description": "Cabbage is a leafy green or purple vegetable with a dense, crunchy texture and a slightly bitter taste. It is high in fiber, vitamins C and K, and antioxidants.",
+            "img": "https://d3awvtnmmsvyot.cloudfront.net/api/file/GGosbWO9SYyGxvDaciZf/convert?fit=max&w=570&cache=true"
+        },
+        {
+            "id": 20,
+            "name": "Sweet Potato",
+            "calories": 86,
+            "description": "Sweet potatoes are root vegetables with a sweet flavor and a starchy texture. They are high in fiber, vitamins A and C, and antioxidants.",
+            "img": "https://c.ndtvimg.com/2018-10/rn4qsd9_sweet-potatoes-_625x300_10_October_18.jpg"
+        },
+        {
+            "id": 21,
+            "name": "Lettuce",
+            "calories": 15,
+            "description": "Lettuce is a leafy green vegetable commonly used in salads and sandwiches. It has a mild flavor and is low in calories.",
+            "img": "https://cdn.britannica.com/77/170677-050-F7333D51/lettuce.jpg"
+        },
+        {
+            "id": 22,
+            "name": "Onion",
+            "calories": 40,
+            "description": "Onions are root vegetables with a pungent flavor and a layered structure. They are commonly used in cooking to add flavor to dishes.",
+            "img": "https://www.veggycation.com.au/siteassets/veggycationvegetable/onion.jpg"
+        },
+        {
+            "id": 23,
+            "name": "Garlic",
+            "calories": 149,
+            "description": "Garlic is a bulbous vegetable with a strong, pungent flavor. It is used in cooking and has various health benefits, including boosting the immune system.",
+            "img": "https://www.halfyourplate.ca/wp-content/uploads/2022/09/garlic-png.png"
+        },
+        {
+            "id": 24,
+            "name": "Potato",
+            "calories": 77,
+            "description": "Potatoes are starchy tubers with a versatile flavor and texture. They are commonly boiled, baked, or fried and are rich in potassium and vitamin C.",
+            "img": "https://newsthump.com/wp-content/uploads/2021/11/potatoes.jpg"
+        },
+        {
+            "id": 25,
+            "name": "Cauliflower",
+            "calories": 25,
+            "description": "Cauliflower is a cruciferous vegetable with a mild, slightly sweet flavor. It can be eaten raw or cooked and is a good source of vitamins C and K.",
+            "img": "https://m.media-amazon.com/images/I/61teCu1uDmL._SX679_.jpg"
+        },
+        {
+            "id": 26,
+            "name": "Asparagus",
+            "calories": 20,
+            "description": "Asparagus is a green vegetable with a tender texture and a slightly bitter flavor. It is rich in vitamins A, C, and K, as well as folate and fiber.",
+            "img": "https://cdn.mos.cms.futurecdn.net/xt4UGjZmzih2tt6NS3Awmd-1200-80.jpg.webp"
+        },
+        {
+            "id": 27,
+            "name": "Brussels Sprouts",
+            "calories": 38,
+            "description": "Brussels sprouts are small, green cruciferous vegetables with a mild, slightly bitter flavor. They are high in fiber, vitamins C and K, and antioxidants.",
+            "img": "https://bcfresh.ca/wp-content/uploads/2021/11/Brussels-sprouts.jpg"
+        },
+        {
+            "id": 28,
+            "name": "Artichoke",
+            "calories": 60,
+            "description": "Artichokes are thistle-like vegetables with a tender heart and edible leaves. They have a nutty flavor and are rich in fiber, vitamins C and K, and antioxidants.",
+            "img": "https://static.libertyprim.com/files/familles/artichaut-large.jpg?1576834575"
+        },
+        {
+            "id": 29,
+            "name": "Beetroot",
+            "calories": 43,
+            "description": "Beetroot, also known as beets, are root vegetables with a sweet, earthy flavor. They are rich in antioxidants, vitamins, and minerals.",
+            "img": "https://lyofood.com/cdn/shop/articles/LYOFOOD-freeze-dried-organic-beetroot-powders-EU-01.jpg?v=1490710701"
+        },
+        {
+            "id": 30,
+            "name": "Radish",
+            "calories": 16,
+            "description": "Radishes are root vegetables with a crisp texture and a spicy flavor. They come in various colors, including red, white, and purple, and are low in calories.",
+            "img": "https://extension.umn.edu/sites/extension.umn.edu/files/radish_GyJvfNq_.jpg"
+        },
+        {
+            "id": 31,
+            "name": "Eggplant",
+            "calories": 25,
+            "description": "Eggplant, also known as aubergine, is a purple vegetable with a meaty texture and a mild, slightly bitter flavor. It is low in calories and a good source of fiber.",
+            "img": "https://www.vitamedica.com/wellness-blog/wp-content/uploads/2010/09/Eggplant.jpg"
+        },
+        {
+            "id": 32,
+            "name": "Celery",
+            "calories": 16,
+            "description": "Celery is a crunchy green vegetable with a mild, slightly salty flavor. It is low in calories and a good source of fiber, vitamins, and minerals.",
+            "img": "https://cdn.britannica.com/68/143768-050-108B71EC/Celery.jpg"
+        },
+        {
+            "id": 33,
+            "name": "Kale",
+            "calories": 49,
+            "description": "Kale is a leafy green vegetable with a slightly bitter flavor and a chewy texture. It is high in vitamins A and C.",
+            "img": "https://m.media-amazon.com/images/I/711CCK2JRmL._SX679_.jpg"
+        },
+        {
+            "id": 34,
+            "name": "Grilled Chicken Breast",
+            "calories": 165,
+            "description": "Grilled chicken breast is a lean protein option seasoned and cooked over an open flame. It is low in fat and calories and high in protein, making it a popular choice for healthy meals.",
+            "img": "https://www.simplyrecipes.com/thmb/PUHYyjBLSanv6SaMQi5G8SEdIBg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Grilled-Chicken-LEAD-SEO-Vertical-3c66b6ae87184189920ad84f3f1db6bb.jpg"
+        },
+        {
+            "id": 35,
+            "name": "Salmon Fillet",
+            "calories": 233,
+            "description": "Salmon fillet is a rich source of omega-3 fatty acids and protein. It can be baked, grilled, or pan-seared and pairs well with various herbs and spices.",
+            "img": "https://i.dailymail.co.uk/i/pix/2018/01/29/16/48B5682B00000578-5325855-Salmon_helps_to_prevent_breast_cancer_new_research_suggests_stoc-m-67_1517243346409.jpg"
+        },
+        {
+            "id": 36,
+            "name": "Tofu Stir-Fry",
+            "calories": 210,
+            "description": "Tofu stir-fry is a vegetarian protein option made by sautéing tofu with assorted vegetables in a flavorful sauce. It is a versatile and nutritious dish suitable for vegans and vegetarians.",
+            "img": "https://www.veganblueberry.com/wp-content/uploads/2021/05/vegan-tofu-broccoli-stir-fry-12.jpg"
+        },
+        {
+            "id": 38,
+            "name": "Chicken Alfredo Pasta",
+            "calories": 420,
+            "description": "Chicken alfredo pasta is a creamy and indulgent dish. It features tender pieces of chicken breast tossed with fettuccine pasta and a rich alfredo sauce made with cream, butter, and parmesan cheese. It is garnished with chopped parsley and served hot.",
+            "img": "https://bellyfull.net/wp-content/uploads/2021/02/Chicken-Alfredo-blog-4.jpg"
+        },
+        {
+            "id": 39,
+            "name": "Beef Tenderloin",
+            "calories": 250,
+            "description": "Beef tenderloin, also known as filet mignon, is a lean and tender cut of beef taken from the loin of the cow. It is prized for its tenderness and mild flavor, making it a popular choice for steaks.",
+            "img": "https://www.seriouseats.com/thmb/DMU1D70xVoidb1bbyVT9zkmklsw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__12__20141217-tenderloin-roast-recipe-food-lab-primary-ae4180060f6740f986048902f4a6ab75.jpg"
+        },
+        {
+            "id": 40,
+            "name": "Ribeye Steak",
+            "calories": 350,
+            "description": "Ribeye steak is a flavorful and well-marbled cut of beef taken from the rib section of the cow. It has a rich, beefy flavor and tender texture, making it a favorite among steak lovers.",
+            "img": "https://girlscangrill.com/wp-content/uploads/2023/05/sliced-ninja-ribeye.webp"
+        },
+        {
+            "id": 41,
+            "name": "Beef Ribs",
+            "calories": 380,
+            "description": "Beef ribs are meaty and flavorful cuts of beef taken from the ribs of the cow. They are often slow-cooked or smoked until tender and served as a hearty and satisfying meal.",
+            "img": "https://live.staticflickr.com/8/7316/27853949000_e00505c082_b.jpg"
+        },
+        {
+            "id": 42,
+            "name": "Lamb Chop",
+            "calories": 280,
+            "description": "Lamb chop is a tender and flavorful cut of meat taken from the rib, loin, or shoulder of a lamb. It is often grilled or pan-seared and served with mint jelly or sauce.",
+            "img": "https://www.foodandwine.com/thmb/KB2hK4H3tjzPsegeV-C-Gs1_Zk0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/200703-r-xl-rosemary-lamb-chops-2000-21b6c171695843e1bdc93bf1173bd97d.jpg"
+        }
+    ]
 }
-{
-  "id": 34,
-  "name": "Grilled Chicken Breast",
-  "calories": 165,
-  "description": "Grilled chicken breast is a lean protein option seasoned and cooked over an open flame. It is low in fat and calories and high in protein, making it a popular choice for healthy meals.",
-  "img": "https://www.simplyrecipes.com/thmb/PUHYyjBLSanv6SaMQi5G8SEdIBg=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Simply-Recipes-Grilled-Chicken-LEAD-SEO-Vertical-3c66b6ae87184189920ad84f3f1db6bb.jpg"
-},
-{
-  "id": 35,
-  "name": "Salmon Fillet",
-  "calories": 233,
-  "description": "Salmon fillet is a rich source of omega-3 fatty acids and protein. It can be baked, grilled, or pan-seared and pairs well with various herbs and spices.",
-  "img": "https://i.dailymail.co.uk/i/pix/2018/01/29/16/48B5682B00000578-5325855-Salmon_helps_to_prevent_breast_cancer_new_research_suggests_stoc-m-67_1517243346409.jpg"
-},
-{
-  "id": 36,
-  "name": "Tofu Stir-Fry",
-  "calories": 210,
-  "description": "Tofu stir-fry is a vegetarian protein option made by sautéing tofu with assorted vegetables in a flavorful sauce. It is a versatile and nutritious dish suitable for vegans and vegetarians.",
-  "img": "https://www.veganblueberry.com/wp-content/uploads/2021/05/vegan-tofu-broccoli-stir-fry-12.jpg"
-},
-{
-  "id": 38,
-  "name": "Chicken Alfredo Pasta",
-  "calories": 420,
-  "description": "Chicken alfredo pasta is a creamy and indulgent dish. It features tender pieces of chicken breast tossed with fettuccine pasta and a rich alfredo sauce made with cream, butter, and parmesan cheese. It is garnished with chopped parsley and served hot.",
-  "img": "https://bellyfull.net/wp-content/uploads/2021/02/Chicken-Alfredo-blog-4.jpg"
-},
-{
-  "id": 39,
-  "name": "Beef Tenderloin",
-  "calories": 250,
-  "description": "Beef tenderloin, also known as filet mignon, is a lean and tender cut of beef taken from the loin of the cow. It is prized for its tenderness and mild flavor, making it a popular choice for steaks.",
-  "img": "https://www.seriouseats.com/thmb/DMU1D70xVoidb1bbyVT9zkmklsw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__12__20141217-tenderloin-roast-recipe-food-lab-primary-ae4180060f6740f986048902f4a6ab75.jpg"
-},
-{
-  "id": 40,
-  "name": "Ribeye Steak",
-  "calories": 350,
-  "description": "Ribeye steak is a flavorful and well-marbled cut of beef taken from the rib section of the cow. It has a rich, beefy flavor and tender texture, making it a favorite among steak lovers.",
-  "img": "https://girlscangrill.com/wp-content/uploads/2023/05/sliced-ninja-ribeye.webp"
-},
-{
-  "id": 41,
-  "name": "Beef Ribs",
-  "calories": 380,
-  "description": "Beef ribs are meaty and flavorful cuts of beef taken from the ribs of the cow. They are often slow-cooked or smoked until tender and served as a hearty and satisfying meal.",
-  "img": "https://live.staticflickr.com/8/7316/27853949000_e00505c082_b.jpg"
-},
-{
-  "id": 42,
-  "name": "Lamb Chop",
-  "calories": 280,
-  "description": "Lamb chop is a tender and flavorful cut of meat taken from the rib, loin, or shoulder of a lamb. It is often grilled or pan-seared and served with mint jelly or sauce.",
-  "img": "https://www.foodandwine.com/thmb/KB2hK4H3tjzPsegeV-C-Gs1_Zk0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/200703-r-xl-rosemary-lamb-chops-2000-21b6c171695843e1bdc93bf1173bd97d.jpg"
-},
-]
