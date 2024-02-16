@@ -1,4 +1,16 @@
 {
+    "user": [
+        {
+            "name": "Parick",
+            "surname": "Lopez",
+            "age": 29,
+            "gender": "male",
+            "height": 1.84,
+            "weight": 85,
+            "calories goal": 2100
+        }
+    ],
+    
     "meals": [
         {
             "id": 1,
