@@ -1,5 +1,5 @@
 {
-    "user": [
+    "user": 
         {
             "name": "Parick",
             "surname": "Lopez",
@@ -8,8 +8,7 @@
             "height": 1.84,
             "weight": 85,
             "caloriesGoal": 2100
-        }
-    ],
+        },
 
     "meals": [
         {
@@ -299,5 +298,7 @@
             "description": "Lamb chop is a tender and flavorful cut of meat taken from the rib, loin, or shoulder of a lamb. It is often grilled or pan-seared and served with mint jelly or sauce.",
             "img": "https://www.foodandwine.com/thmb/KB2hK4H3tjzPsegeV-C-Gs1_Zk0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/200703-r-xl-rosemary-lamb-chops-2000-21b6c171695843e1bdc93bf1173bd97d.jpg"
         }
-    ]
+    ],
+    
+    "new-meals": []
 }
