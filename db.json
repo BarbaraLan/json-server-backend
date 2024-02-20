@@ -6,9 +6,9 @@
     "gender": "male",
     "height": 1.84,
     "weight": 85,
-    "caloriesGoal": 2100,
-    "days": []
+    "caloriesGoal": 2100
   },
+  "days": [],
   "meals": [
     {
       "id": 1,
